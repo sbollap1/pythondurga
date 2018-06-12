@@ -1,0 +1,8 @@
+from math import *
+
+r = int(input("Enter radius: "))
+area=pi*r**2
+print("Area of the circle is = ", area)
+
+x = int(input("Enter a number and I will give sqrt: "))
+print ("The square root of ", x, " is ", sqrt(x))
